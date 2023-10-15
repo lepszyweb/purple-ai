@@ -1,6 +1,6 @@
 # purple-ai
 
-A collection of GPT responses on how to fix HTML accessibility issues.
+Zbiór odpowiedzi GPT na temat naprawiania błędów dostępności HTML.
 
-Like what you see?
-- Check out [Purple HATS Accessibility Site Scanner](https://github.com/GovTechSG/purple-hats).
+Podoba ci się to, co widzisz?
+- Sprawdź [Purple HATS Accessibility Site Scanner](https://github.com/GovTechSG/purple-hats).

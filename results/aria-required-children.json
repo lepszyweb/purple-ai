@@ -1,3 +1,7 @@
 {
-  "ul_role=\"tablist\"": "The issue in the given code snippet is that the `ul` element with the `role` of \"tablist\" is missing the required child elements with the `role` of \"tab\". To fix this issue, you should add the required child elements with the appropriate ARIA roles. Here's the corrected version of the code snippet:\n\n```html\n<ul role=\"tablist\">\n  <li role=\"tab\">Tab 1</li>\n  <li role=\"tab\">Tab 2</li>\n  <li role=\"tab\">Tab 3</li>\n</ul>\n```\n\nIn this corrected version, the `li` elements have been given the required `role` of \"tab\" as children of the `ul` element with the `role` of \"tablist\"."
+  "ul_role=\"tablist\"": "Problem w podanym fragmencie kodu polega na tym, że w elemencie `ul` z `role` `\"tablist\"` brakuje wymaganych elementów podrzędnych z `role` `\"tab\"`. Aby naprawić ten błąd, należy dodać wymagane elementy podrzędne z odpowiednimi rolami ARIA. Oto poprawiona wersja fragmentu kodu:\n\n```html\n<ul role=\"tablist\">\n  <li role=\"tab\">Tab 1</li>\n  <li role=\"tab\">Tab 2</li>\n  <li role=\"tab\">Tab 3</li>\n</ul>\n```\n\nW poprawionej wersji, elementy `li` otrzymały wymaganą `role` `\"tab`\" jako dzieci elementu `ul` z `rolą` `\"tablist\"`."
 }
+
+
+
+
